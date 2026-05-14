@@ -1,0 +1,8 @@
+hypothesis_category,total,correct,incorrect,accuracy
+domain_shift,5,4,1,0.8
+length_extreme,5,4,1,0.8
+lexical_trigger,5,2,3,0.4
+negation,5,2,3,0.4
+other,5,4,1,0.8
+sarcasm,5,0,5,0.0
+overall,30,16,14,0.5333333333333333
